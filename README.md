@@ -16,3 +16,6 @@ seed
 not
 free
 not
+base
+cool
+nice

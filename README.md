@@ -21,3 +21,4 @@ cool
 nice
 city
 bcn
+eaasy

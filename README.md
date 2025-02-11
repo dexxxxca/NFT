@@ -20,3 +20,4 @@ base
 cool
 nice
 city
+bcn

@@ -25,3 +25,4 @@ eaasy
 never
 look
 culture
+gpt chat

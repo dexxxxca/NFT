@@ -27,3 +27,4 @@ look
 culture
 gpt chat
 lier
+push

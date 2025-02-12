@@ -28,3 +28,4 @@ culture
 gpt chat
 lier
 push
+blame

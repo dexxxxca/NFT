@@ -29,3 +29,5 @@ gpt chat
 lier
 push
 blame
+soon
+as

@@ -23,6 +23,10 @@ city
 bcn
 eaasy
 never
+read
+never
+ever 
+old
 look
 culture
 gpt chat

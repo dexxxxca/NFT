@@ -1,5 +1,8 @@
-
-ask# NFT
+drop
+use
+case
+ready 
+ask NFT
 New design 
 you
 cool pepe

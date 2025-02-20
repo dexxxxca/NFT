@@ -1,3 +1,7 @@
+
+you
+nexo
+full
 drop
 use
 case

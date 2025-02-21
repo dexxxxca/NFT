@@ -1,3 +1,4 @@
+dictator
 green
 zoo
 visa

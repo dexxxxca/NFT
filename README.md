@@ -1,3 +1,4 @@
+protect
 dictator
 green
 zoo

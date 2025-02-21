@@ -1,5 +1,6 @@
 infinity
-
+hard
+tirol
 dominican
 party
 noise

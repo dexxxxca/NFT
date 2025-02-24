@@ -1,3 +1,4 @@
+easy
 doc
 protect
 dictator

@@ -1,3 +1,4 @@
+white
 hat
 rat
 mountain

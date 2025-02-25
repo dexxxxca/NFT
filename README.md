@@ -1,5 +1,4 @@
-asasasasasasassasasasasasasasasasas
-aswhite
+white
 hat
 rat
 mountain

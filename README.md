@@ -1,7 +1,7 @@
 nft test
 vcbv
 cvb
-vcb
+vcbcv
 cvbbvc
 cvbbvc
 cvbcbv
@@ -10,3 +10,4 @@ cvbcb
 cbcb
 cbcvb
 cxbvcvb
+cvbvbc
